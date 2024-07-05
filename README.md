@@ -15,7 +15,7 @@ FSTAB Hacking Tool For Script Kiddies Like Me
 - [x] Exploitation 
 1. Metasploit Payload [Android]
 2. Metasploit Payload [Windows]
-3. Metasploit Payload [Apple_IO]
+3. Metasploit Payload [Apple_IOS]
 
 3. Trojan Malware [Android]
 4. ILOVEYOU VIRUS 2000 [Windows]
