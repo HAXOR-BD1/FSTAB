@@ -4,7 +4,7 @@ FSTAB Hacking Tool For Script Kiddies Like Me
 
 # Features
 
-- [×] Password Cracking
+- [x] Password Cracking
 1. FTP
 2. MYSQL
 3. ZIP
@@ -12,7 +12,7 @@ FSTAB Hacking Tool For Script Kiddies Like Me
 5. Cap File Or Hccapx
 6. Password List Generator [Bonus]
 
-- [×] Exploitation 
+- [x] Exploitation 
 1. Metasploit Payload [Android]
 2. Metasploit Payload [Windows]
 3. Metasploit Payload [Apple_IO]
@@ -20,14 +20,14 @@ FSTAB Hacking Tool For Script Kiddies Like Me
 3. Trojan Malware [Android]
 4. ILOVEYOU VIRUS 2000 [Windows]
 
-- [×] Website Tools
+- [x] Website Tools
 1. Ping Website
 2. IP & Port Scanner [NMAP]
 3. Distributed Denial Of Service Attack [DDOS
 
 # Install 
 
-- [×] Kali Linux
+- [x] Kali Linux
 
 git clone https://github.com/HAXOR-BD1/FSTAB
 
@@ -35,7 +35,7 @@ cd FSTAB
 
 python3 run.py
 
-- [×]
+- [x]
 
 This Tool Won't Work On Termux Users Only Linux Or Proot Distros
 
