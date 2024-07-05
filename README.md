@@ -35,7 +35,7 @@ cd FSTAB
 
 python3 run.py
 
-- [x]
+- [x] Not Working On Termux
 
 This Tool Won't Work On Termux Users Only Linux Or Proot Distros
 
