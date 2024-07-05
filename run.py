@@ -18,7 +18,7 @@ logo = ("""
  ╰╯╱╱╰━━━┻━━━┻━━━┻━━┻━━━╯╱╰╯╱╱╱╰╯
 [+]     FUCK SOCIETY IDIOTS      [+]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-[+] Creator        : L00p Th3 L00p
+[+] Creator        : HAXOR-BD1
 [+] Script Version : 0.1
 [+] Status         : Online
 [+] System         : Wi-Fi
