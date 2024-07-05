@@ -23,7 +23,7 @@ FSTAB Hacking Tool For Script Kiddies Like Me
 - [x] Website Tools
 1. Ping Website
 2. IP & Port Scanner [NMAP]
-3. Distributed Denial Of Service Attack [DDOS
+3. Distributed Denial Of Service Attack [DDOS]
 
 # Install 
 
